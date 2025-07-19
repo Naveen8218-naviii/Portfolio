@@ -1,0 +1,38 @@
+.intro{
+    height: calc(100vh-5rem);
+    width: 100vw;
+    max-width: 80%;
+    margin: 0 auto;
+overflow: hidden;
+display: flex;
+justify-content:space-between ;
+align-items: center;
+}
+
+.hello{
+    font-size: 1.75rem;
+    font-weight: 100;
+}
+
+.introtext{
+    font-size: 3rem;
+}
+.name{
+    color: yellow;
+    font-size: 3.5rem;
+}
+.intropera{
+    font-size: medium;
+    font-weight: 100;
+}
+
+.btn{
+    background-color: aliceblue;
+    
+    padding: 0.75rem 2rem;
+    border: none;
+    border-radius: 2rem;
+    color: black;
+}
+
+
